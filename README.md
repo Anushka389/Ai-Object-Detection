@@ -3,7 +3,7 @@
 A **real-time AI Object Detection web app** built with **Next.js 14**, **React**, **TensorFlow.js**, and **Tailwind CSS**.  
 The app uses a **pre-trained COCO-SSD model** to detect objects from webcam  – no backend required.  
 
-🚀 **Live Demo**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+🚀 **Live Demo**: [https://your-vercel-link.vercel.app](https://ai-object-detection-gray.vercel.app/)
 
 ---
 
@@ -24,6 +24,7 @@ The app uses a **pre-trained COCO-SSD model** to detect objects from webcam  –
 - **Deployment**: [Vercel](https://vercel.com/)  
 
 ---
+
 
 
 
