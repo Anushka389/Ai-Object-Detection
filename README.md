@@ -25,4 +25,5 @@ The app uses a **pre-trained COCO-SSD model** to detect objects from webcam or u
 
 ---
 
-## 📂 Project Structure
+
+
